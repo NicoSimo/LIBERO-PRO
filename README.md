@@ -218,7 +218,7 @@ Below is a reference code snippet for conducting LIBERO-PRO generalization evalu
 │           ├── openvla_utils.py
 │           └── robot_utils.py
 ```
-Before evaluating, modify the `run_libero_eval.py` to adapt to LIBERO-RPO:
+Before evaluating, modify the `run_libero_eval.py` to adapt to LIBERO-PRO:
 ```
 from LIBERO-PRO import perturbation
 

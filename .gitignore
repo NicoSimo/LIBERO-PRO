@@ -15,4 +15,7 @@ logs/
 
 *.mp4
 libero.egg-info/
+hf_libero_pro.egg-info/
+dist/
+build/
 .vscode/
